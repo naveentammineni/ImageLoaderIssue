@@ -1,0 +1,28 @@
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        applicationId "com.example.android.navigationdrawerexample"
+        minSdkVersion 14
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/Parse-1.5.1.jar')
+    compile files('libs/ion-1.2.7.jar')
+    compile files('libs/androidasync-1.2.6.jar')
+    compile 'com.android.support:support-v4:+'
+    compile 'com.google.code.gson:gson:2.2.+'
+    compile files('libs/universal-image-loader-1.9.2.jar')
+}

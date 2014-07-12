@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res" >
+            <file
+                name="earth"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/earth.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="fancommenticon"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/fancommenticon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="favfanicon"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/favfanicon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="jupiter"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/jupiter.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="locationdrawericon"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/locationdrawericon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="locationicon"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/locationicon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mars"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/mars.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mercury"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/mercury.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="neptune"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/neptune.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="postbg"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/postbg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="postpicph"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/postpicph.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="saturn"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/saturn.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="uranus"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/uranus.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="venus"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable/venus.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="action_search"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-hdpi/action_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-hdpi/ic_drawer.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="profile"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-hdpi/profile.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-mdpi/action_search.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-mdpi/drawer_shadow.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-mdpi/ic_drawer.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="profile"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-mdpi/profile.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-xhdpi/action_search.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-xhdpi/ic_drawer.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="profile"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-xhdpi/profile.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="profile"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/drawable-xxhdpi/profile.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_timeline"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/layout/activity_timeline.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/layout/drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_planet"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/layout/fragment_planet.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_timeline"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/layout/fragment_timeline.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="post_list_item"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/layout/post_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="timeline"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/menu/timeline.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="title_activity_timeline" >TimelineActivity
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="hello_blank_fragment" >Hello blank fragment
+                </string>
+                <string name="app_name" >Navigation Drawer Example
+                </string>
+                <string name="action_websearch" >Web search
+                </string>
+                <string name="drawer_open" >Open navigation drawer
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+
+                <string-array name="planets_array" >
+                    <item>
+Mercury
+                    </item>
+                    <item>
+Venus
+                    </item>
+                    <item>
+Earth
+                    </item>
+                    <item>
+Mars
+                    </item>
+                    <item>
+Jupiter
+                    </item>
+                    <item>
+Saturn
+                    </item>
+                    <item>
+Uranus
+                    </item>
+                    <item>
+Neptune
+                    </item>
+                </string-array>
+
+                <string name="drawer_close" >Close navigation drawer
+                </string>
+                <string name="app_not_available" >Sorry, there\'s no web browser available
+                </string>
+            </file>
+            <file
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/NaveenT/Documents/NavigationDrawer/app/build/generated/res/rs/debug" />
+        <source path="/Users/NaveenT/Documents/NavigationDrawer/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/NaveenT/Documents/NavigationDrawer/app/src/debug/res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/assets" >
+            <file
+                name="profilepicbig.png"
+                path="/Users/NaveenT/Documents/NavigationDrawer/app/src/main/assets/profilepicbig.png" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/NaveenT/Documents/NavigationDrawer/app/src/debug/assets" />
+    </dataSet>
+
+</merger>

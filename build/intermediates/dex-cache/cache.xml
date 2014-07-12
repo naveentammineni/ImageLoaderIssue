@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/NaveenT/Documents/NavigationDrawer/app/build/intermediates/pre-dexed/debug/androidasync-1.2.6-b2a6e202eaa2374274368cd804bfa84d7309b831.jar"
+        jar="/Users/NaveenT/Documents/NavigationDrawer/app/libs/androidasync-1.2.6.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7937385823398979dd9dabcc3a3938e97df167cf"/>
+    <item
+        dex="/Users/NaveenT/Documents/NavigationDrawer/app/build/intermediates/pre-dexed/debug/ion-1.2.7-df22ccc9f64f3aa103b246d30953a54aa2f0dc9b.jar"
+        jar="/Users/NaveenT/Documents/NavigationDrawer/app/libs/ion-1.2.7.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a422832b5d331f7131025885b5ef2d06722e6b71"/>
+    <item
+        dex="/Users/NaveenT/Documents/NavigationDrawer/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-3859f215361a2096018e759637fd1f45286173e7.jar"
+        jar="/Users/NaveenT/Documents/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/NaveenT/Documents/NavigationDrawer/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-50b0576dad24054c94f533cf6423ed638326a6ca.jar"
+        jar="/Users/NaveenT/Documents/NavigationDrawer/app/libs/universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432"/>
+    <item
+        dex="/Users/NaveenT/Documents/NavigationDrawer/app/build/intermediates/pre-dexed/debug/Parse-1.5.1-cafb84cef21887ea2c65f94602b2a1d989be79dc.jar"
+        jar="/Users/NaveenT/Documents/NavigationDrawer/app/libs/Parse-1.5.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3d645417e7780d44f32e29a3ec6b729b75aef26c"/>
+    <item
+        dex="/Users/NaveenT/Documents/NavigationDrawer/app/build/intermediates/pre-dexed/debug/gson-2.2.4-2a475ba0b8c5506d855eed61da0653782b39fc14.jar"
+        jar="/Users/NaveenT/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+
+</pre-dex-items>
