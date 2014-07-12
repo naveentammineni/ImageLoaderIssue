@@ -1,8 +1,6 @@
-Some of the Libraries used in this project are:
+The Library i have used to load the images is:
 
 https://github.com/nostra13/Android-Universal-Image-Loader
-
-Parse.com sdk
 
 I am using the parse.com as the backend and all the data is stored in there. We can access using the SDK provided by parse.com.
 
